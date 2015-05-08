@@ -5,9 +5,10 @@ and Misc. The returned Excel file can be used as a jumping off point for a data
 dictionary. 
 
 # Instructions
-Open the script with a text editor such as notepad and replace the string for fileTWB with the path to your workbook. 
-Run the script. 
-The XLSX file will be created in the same directory as the TWB file. 
+To run download the zip file and unzip.
+Run ArgusTWB.exe 
+
+For DLL issues check: http://www.py2exe.org/index.cgi/Tutorial#Step5
 
 #Known Issues
    - Only reports fields used on worksheets
